@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555991336 source:c:\c++\destructors to realse memory\main.cpp
+	<iostream>
+	<string.h>
+

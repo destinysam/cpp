@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1557407962 source:c:\c++\hackerrank datatype\main.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	<string.h>
+	<cstdio>
+
