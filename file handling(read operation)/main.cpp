@@ -9,7 +9,7 @@ int main()
     ifstream fin;/*OBJECT*/
     char ch;
     fin.open("file1.docx");
-    //fin>>ch;/*using when we dont need spaces bw words*/
+ // fin>>ch;   using when we dont want to create spaces bw words
     ch=fin.get();/*taking char by char and maks separation bw words*/
     while(!fin.eof())
     {

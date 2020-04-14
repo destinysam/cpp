@@ -5,7 +5,6 @@
 EMAIL:SAMS44802@GMAIL.COM
 PROGRAM:ADDITION OF TWO MATRIX USING OPERATOR OVERLOADIND*/
 using namespace std;
-
 class operatorr
 {
     int array1[n][m];
@@ -43,7 +42,7 @@ class operatorr
                for(int j=0;j<m;j++)
                {
                    array2[i][j]=array1[i][j]+p.array1[i][j];/*ADDING FIRST ELEMENT TO FIRST ELEMENT OF MATRIX
-                   AND STROING INTO ANOTHER MATRIX*/
+                   AND STORING INTO ANOTHER MATRIX*/
                }
            }
            cout<<"ADDITION OF TWO MATRIX IS "<<endl;

@@ -1,5 +1,7 @@
 #include<iostream>
 #include<fstream>
+/*CODED BY SAM@SAMEER
+EMAIL:SAMS44802@GMAIL.COM*/
 using namespace std;
 int main()
 {

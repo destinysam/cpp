@@ -22,7 +22,7 @@ class student/*BASE CLASS*/
 class student_detail:public person,public student/*DERIVED CLASS*/
 {
 public:
-void display()/*OVERRIDES DISPLAY() OF PERSON AND STUDENT*/
+void display()/*OVERRIDES DISPLAY() OF PERSON AND STUDENT CLASS*/
 {
     person::display();/*AMBGUITY RESOLUTION*/
     student::display();/*AMBGUITY RESOLUTION*/
@@ -30,6 +30,6 @@ void display()/*OVERRIDES DISPLAY() OF PERSON AND STUDENT*/
 };
 int main()
 {
-    student_detail obj;
-    obj.display();
+    student_detail obj1;
+    obj1.display();
 }

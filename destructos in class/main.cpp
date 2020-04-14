@@ -9,7 +9,7 @@ public:
     {
         cout<<"CONSTRUCTOR CREATED\n"<<endl;
     }
-    ~student() //destructor THAT IS DENOTED BY ~ IN PREFIX//
+    ~student() //destructor THAT IS PRECEDED BY ~ 
     {
         cout<<"DESTRUCTOR OBJECT DELETED\n"<<endl;
     }

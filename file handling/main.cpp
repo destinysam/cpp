@@ -2,7 +2,7 @@
 #include<fstream>
 /*CODED BY SAM@SAMEER
 EMAIL:SAMS44802@GMAIL.COM
-PROGRAM:WRITING OF TEXT IN A FILE*/
+PROGRAM:WRITING IN A FILE*/
 using namespace std;
 int main()
 {

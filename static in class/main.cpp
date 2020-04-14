@@ -1,5 +1,7 @@
 #include <iostream>
-//CODED BY SAM @SAMEER//
+//CODED BY SAM @SAMEER
+//EMAIL:SAMS44802@GMAIL.COM
+//DATE 12/12/2019
 using namespace std;
 class human
 {
@@ -14,7 +16,7 @@ class human
         cout<<"HYY  THE FUNCTION IS CALLED"<<var<<endl;
     }
 };
-int  human::var=0;
+int  human::var=0;//STATIC DEFINITION
 int main()
 {
     /*cout<<human::var<<endl; //PRINTING THE VALUE OF VAR THAT HOW MANY TIMES IT IS CALLED//
